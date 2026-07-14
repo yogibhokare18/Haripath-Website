@@ -70,9 +70,7 @@ HariPath/
 
 ## 🌐 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/HariPath/
-
-*(Replace `YOUR-USERNAME` with your GitHub username after enabling GitHub Pages.)*
+👉 https://yogibhokare18.github.io/Haripath-Website/
 
 ---
 
