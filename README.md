@@ -76,15 +76,9 @@ HariPath/
 
 ---
 
-## 📸 Screenshot
+## 📸 Website Preview
 
-Add your website screenshot here.
-
-Example:
-
-```
-images/screenshot.png
-```
+![HariPath Website](images/screenshot.png)
 
 ---
 
