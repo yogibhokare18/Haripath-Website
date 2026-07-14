@@ -52,7 +52,8 @@ HariPath/
 │   └── print.js
 │
 ├── images/
-│   └── Dnyaneshwar_Maharaj_Photo.png
+│   ├── Dnyaneshwar_Maharaj_Photo.png
+│   └── screenshot.png
 │
 └── README.md
 ```
